@@ -11,6 +11,7 @@ Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on my own . 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnasai231&repo=github-readme-stats)](https://github.com/krishnasai/github-readme-stats)
 
 
 
